@@ -1,0 +1,27 @@
+com.vmware package
+==================
+
+.. automodule:: com.vmware
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+Subpackages
+-----------
+
+.. toctree::
+
+    com.vmware.nsx
+
+Submodules
+----------
+
+com.vmware.nsx\_client module
+-----------------------------
+
+.. automodule:: com.vmware.nsx_client
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+
